@@ -1,0 +1,27 @@
+{
+  "geode": "v5.11.2",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "gdbot.ai",
+  "name": "GD Bot AI",
+  "version": "v0.1.0",
+  "developer": "YourName",
+  "description": "Android floating assistant and extensible command console for Geometry Dash.",
+  "repository": "https://github.com/yourname/gd-bot-ai",
+  "tags": [
+    "android",
+    "utility",
+    "interface"
+  ],
+  "settings": {
+    "button-opacity": {
+      "name": "Floating button opacity",
+      "description": "Opacity of the floating bot button.",
+      "type": "float",
+      "default": 0.85,
+      "min": 0.0,
+      "max": 1.0
+    }
+  }
+}
